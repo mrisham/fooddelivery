@@ -427,7 +427,7 @@ body {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 376px) {
   .page {
     max-width: 374px;
   }
